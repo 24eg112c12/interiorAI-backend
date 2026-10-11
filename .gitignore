@@ -1,0 +1,10 @@
+target/
+.env
+.env.*
+uploads/
+*.log
+.settings/
+.classpath
+.project
+.idea/
+*.iml
